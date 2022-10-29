@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162168244303",
+    "project_id": "simpleed-8a482",
+    "storage_bucket": "simpleed-8a482.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162168244303:android:b97ef6663b363b0c6cc23a",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162168244303-277r6tks67vggd0nc3cq6knc6bao8mbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMifXQ9IrmX4iRZ1BJ4tVOcHy-HuwzHkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162168244303-277r6tks67vggd0nc3cq6knc6bao8mbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
